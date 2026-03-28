@@ -38,19 +38,25 @@ header h1 {
 }
 
 header img {
-  border-radius: 50%; /* make image round */
+  header img {
   margin-bottom: 15px;
-  width: 150px;
-  height: 150px;
-  object-fit: cover; /* keep proportions, crop if needed */
-}
-.avatar {
-  border-radius: 50%;
 }
 
-.logo {
-  border-radius: 0; /* keeps it square */
+/* Only avatar is round */
+.avatar {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
+
+/* Logo stays square */
+.logo {
+  border-radius: 0;
+  width: 100px;
+  height: auto;
+}
+
 /* Navigation menu */
 nav ul {
   list-style: none;
