@@ -1,8 +1,8 @@
 # Viktorya Nerkararyan
 
 ## Contact Info
-- Email: your@email.com
-- GitHub: https://github.com/yourusername
+- Email: viktoryanerkararyan26@email.com
+- GitHub: https://github.com/Viktorya-n
 
 ## About Me
 I am learning programming at RS School.
